@@ -1,4 +1,4 @@
-package com.test.myapplication;
+package com.frameworktest.myapplication;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
