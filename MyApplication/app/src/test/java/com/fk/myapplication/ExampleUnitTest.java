@@ -1,4 +1,4 @@
-package com.frameworktest.myapplication;
+package com.fk.myapplication;
 
 import org.junit.Test;
 

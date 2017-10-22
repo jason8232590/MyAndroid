@@ -1,4 +1,4 @@
-package com.frameworktest.myapplication;
+package com.fk.myapplication;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
